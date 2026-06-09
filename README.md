@@ -4,6 +4,10 @@
 
 This project presents an AWS cloud infrastructure design for FreshBasket, a web application that allows users to submit and view orders. The architecture was designed to support scalability, high availability, fault tolerance, disaster recovery, and secure database access.
 
+## Project Report
+
+[View full AWS infrastructure report](FreshBasket%20AWS%20project.pdf)
+
 ## Business Problem
 
 FreshBasket requires a reliable cloud infrastructure that can handle web traffic, process user requests, store order data securely, and remain available if an instance or Availability Zone fails. The goal of this project was to design and document a scalable AWS solution suitable for a small web application.
